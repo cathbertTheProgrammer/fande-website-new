@@ -914,8 +914,8 @@ header.navbar-fixed-top.header-alt{
 /* === Welcome Section === */
 .welcome-left {
     padding: 70px 0;
-    background: url(../images/welcome-left.jpg) no-repeat bottom right;
-    background-size: contain;
+    background: url(../images/fande/FandELogo.jpg) no-repeat top right;
+    background-size: 40%;
 }
 .welcome-left .head-main{
     text-align: left;
@@ -1722,7 +1722,7 @@ header.navbar-fixed-top.header-alt{
 
 /* === Breadcrumbs Section === */
 .breadcrumbs-wrap{
-    background: url(../images/page-title-01.jpg) no-repeat;
+    background: url(../images/fande/why-fande.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
     padding: 300px 0 0 0;
