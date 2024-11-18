@@ -110,7 +110,7 @@
 /*    Primary Colour
 /*------------------------------------------*/
 .txt-blue{
-    color: #004d73;
+    color: #d8ba5e;
 }
 .txt-orange{
     color: #5d04b1;
@@ -189,7 +189,7 @@
 /*------------------------------------------*/
 .bg-white{ background: #FFF; }
 .bg-light-gray{ background: #fafafa; }
-.bg-navy-blue{ background: #004d73; }
+.bg-navy-blue{ background: #d8ba5e; }
 .bg-orange{ background: #5d04b1; }
 .bg-sky-blue{ background: #547c97; }
 .bg-blue-light{background: #547c97;}
@@ -325,7 +325,7 @@
     font-weight: 600;
 }
 .link-blue {
-    color: #004d73;
+    color: #d8ba5e;
     font-weight: 600;
 }
 .link-dark {
@@ -337,7 +337,7 @@
     font-weight: 600;
 }
 .link-oragne:hover {
-    color: #004d73;
+    color: #d8ba5e;
 }
 .link-blue:hover {
     color: #ff3514;
@@ -362,8 +362,8 @@
     color: #ff3514;
 }
 .bordered.bg-navy-blue{
-    border-color: #004d73;
-    color: #004d73;
+    border-color: #d8ba5e;
+    color: #d8ba5e;
 }
 .bordered.bg-sky-blue{
     border-color: #f1fbff;
@@ -542,7 +542,7 @@ color: #2f3985 !important;
     font-size: 36px;
     width: 100px;
     height: 100px;
-    border: 2px solid #e5e5e5;
+    border: 2px solid #d8ba5e;
     display: inline-block;
     line-height: 100px;
     color: #5d04b1;
@@ -562,13 +562,13 @@ color: #2f3985 !important;
     color: #303030;
 }
 .box-icon-1:hover i{
-    background: #004d73;
-    color: #fff;
-    border-color: #004d73;
+    background: #d8ba5e;
+    color: #5d04b1;
+    border-color: #5d04b1;
 }
 
 .welcome-section-alt .box-icon-1:hover i{
-    background: #004d73;
+    background: #d8ba5e;
 }
 
 .box-icon-2{
@@ -581,7 +581,7 @@ color: #2f3985 !important;
 .box-icon-2 h3{
     font-size: 1.125rem;
     font-weight: 600;
-    color: #004d73;
+    color: #d4a91b;
 }
 .box-icon-2 p {
     padding: 0 10%;
@@ -640,7 +640,7 @@ color: #2f3985 !important;
 .box-icon-3-text h3{
     font-size: 1.125rem;
     font-weight: 600;
-    color: #004d73;
+    color: #d8ba5e;
 }
 
 .box-icon-3.top{
@@ -668,7 +668,7 @@ color: #2f3985 !important;
 .box-icon-4 h3{
     font-size: 1.125rem;
     font-weight: 600;
-    color: #004d73;
+    color: #d8ba5e;
 }
 .box-icon-4 i{
     position: absolute;
@@ -1148,7 +1148,7 @@ button[class*="btn-"]{
     color:#333;
 }
 .list-colored li i{
-    color:#004d73;
+    color:#d8ba5e;
 }
 
 ul.bullets-style {
@@ -1269,7 +1269,7 @@ ul.bullets-style li, .arrow-list li:before, .arrow-list-2 li:before, .arrow-list
     line-height:46px;
     margin:0 2px;
     z-index:1000;
-    background: #004d73;
+    background: #d8ba5e;
     color: #FFF;
     font-weight: 600;
 
@@ -1334,7 +1334,7 @@ ul.bullets-style li, .arrow-list li:before, .arrow-list-2 li:before, .arrow-list
 
 .owl-controls .owl-dot span {
     border: 2px solid #FFF;
-    background: #004d73;
+    background: #d8ba5e;
     width: 15px;
     height: 15px;
     display: block;
@@ -1440,14 +1440,14 @@ ul.bullets-style li, .arrow-list li:before, .arrow-list-2 li:before, .arrow-list
     color: #333333;
     background: #ffffff;
     padding: 2rem 0;
-    border-bottom: 4px solid #004d73;
+    border-bottom: 4px solid #d8ba5e;
     box-shadow: 0px 0px 57px 0px rgba(0, 0, 0, 0.05);
 }
 .counter-style-1.light-bg span{
     color: #5d04b1;
 }
 .counter-style-1.light-bg i{  
-    color: #004d73;
+    color: #d8ba5e;
 }
 .counter-style-1 span {
     font-size: 3rem;
@@ -1503,7 +1503,7 @@ ul.bullets-style li, .arrow-list li:before, .arrow-list-2 li:before, .arrow-list
 .blockquote-2 footer cite, .blockquote-3 footer cite{
     font-style:inherit;
     font-size:14px;
-    color:#004d73;
+    color:#d8ba5e;
     font-family: 'Open Sans', sans-serif;
 }
 .blockquote-2 footer, .blockquote-3 footer{
@@ -1710,7 +1710,7 @@ ul.bullets-style li, .arrow-list li:before, .arrow-list-2 li:before, .arrow-list
 }
 .theme-tab .nav-tabs > li > a{
     border-radius:0;
-    background:#004d73;
+    background:#d8ba5e;
     color:#FFF;
     border-width:1px 1px 0 1px;
     border-color:#323232;
@@ -1774,7 +1774,7 @@ ul.bullets-style li, .arrow-list li:before, .arrow-list-2 li:before, .arrow-list
 }
 
 .tab-style2 .nav-tabs > li > a{
-    background: #004d73 ;
+    background: #d8ba5e ;
     color: #FFF;
     border-radius: 0;
     border: none;
@@ -1818,7 +1818,7 @@ ul.bullets-style li, .arrow-list li:before, .arrow-list-2 li:before, .arrow-list
 .skillbar-wrap .clearfix {
     margin-bottom: 18px;
     font-weight: 600;
-    color: #004d73;
+    color: #d8ba5e;
 }
 .skillbar-percent {
     position: absolute;
@@ -2148,7 +2148,7 @@ ul.bullets-style li, .arrow-list li:before, .arrow-list-2 li:before, .arrow-list
     color: #5d04b1;
 }
 .icons-listing.theme-blue li i{
-    color: #004d73;
+    color: #d8ba5e;
 }
 .icons-listing.theme-light li i{
     color: #cccccc;

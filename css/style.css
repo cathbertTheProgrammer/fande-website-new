@@ -191,7 +191,7 @@ border-color: transparent transparent #FFF transparent;
         padding: 0 15px;
 }
 .top-transparent.fixed nav{
-    box-shadow: 0px 6px 10px 0px rgba(120, 204, 93, 0.2);
+    box-shadow: 0px 6px 10px 0px rgba(145, 93, 204, 0.2);
 }
 .top-transparent .navbar-expand-md .navbar-nav .nav-item, 
 .top-transparent .navbar-expand-lg .navbar-nav .nav-item{
@@ -373,7 +373,7 @@ border-color: transparent transparent #FFF transparent;
 .header-logo-top.top-transparent .navbar-nav .active .nav-link:hover, 
 .header-logo-top.top-transparent .navbar-nav .nav-item:hover > a, 
 .header-logo-top.top-transparent .navbar-nav .nav-link:hover {
-    background: #004d73;
+    background: #d8ba5e;
     color: #FFF;
 }
 .header-logo-top .header-fullpage{
@@ -452,7 +452,7 @@ border-color: transparent transparent #FFF transparent;
 }
 .request-btn a#search_home{
     font-size: 1.125rem;
-    color: #004d73;
+    color: #d8ba5e;
 }
 /* Top Bar Right Elements */
 
@@ -493,7 +493,7 @@ h1{
     color: #5d04b1;
 }
 h2{
-    color: #004d73;
+    color: #d8ba5e;
 }
 h3, h4, h5, h6{
     color: #333;
@@ -1054,7 +1054,7 @@ header.navbar-fixed-top.header-alt{
     font-weight: 500;
     text-transform: uppercase;
     color: #ffffff;
-    background: #004d73;
+    background: #bb9420;
     padding: 22px 0;
     transition: .3s ease-in-out;
 }
@@ -1358,7 +1358,7 @@ header.navbar-fixed-top.header-alt{
 }
 .services-img .text h3{
     font-size: 1.125rem;
-    color: #004d73;
+    color: #d8ba5e;
     font-weight: 600;
 }
 .team-slider .contact-wrap{
@@ -1393,7 +1393,7 @@ header.navbar-fixed-top.header-alt{
     margin-top: 7px;
 }
 .team-soical a:hover{
-    color: #004d73;
+    color: #d8ba5e;
 }
 .team-slider .owl-controls .owl-dots{
     position: absolute;
@@ -1437,7 +1437,7 @@ header.navbar-fixed-top.header-alt{
     display: block;
     padding: 7px;
     color: #FFFF;
-    background: #004d73;
+    background: #d8ba5e;
     margin-bottom: 15px;
 }
 .meta-box-wrap a.post-date:hover{
@@ -1552,7 +1552,7 @@ header.navbar-fixed-top.header-alt{
     -webkit-border-radius:3px;
 }
 .pagination a.dark{
-    background:#004d73;
+    background:#d8ba5e;
     color:#FFF;
 }
 .pagination a:hover, .pagination a.dark:hover{
@@ -1820,7 +1820,7 @@ header.navbar-fixed-top.header-alt{
 }
 .contact-details{
     text-align: center;
-    background: #004d73;
+    background: #d8ba5e;
     font-weight: 300;
     color: #FFF;
     padding: 20px 0;
@@ -1884,7 +1884,7 @@ label.error{
 }
 .footer-links h3{
     font-size: 16px;
-    color: #004d73;
+    color: #d8ba5e;
     text-transform: uppercase;
     font-weight: 600;
 }
@@ -1902,7 +1902,7 @@ label.error{
     font-size: 0.875rem;
 }
 .footer-links ul li a:hover{
-    color: #004d73;
+    color: #d8ba5e;
 }
 .footer-links ul li a i{
     padding-right: 7px;
@@ -1970,7 +1970,7 @@ label.error{
 }
 #back-top a:hover{
     color:#FFF;
-    background:#004d73;
+    background:#d8ba5e;
 }
 /* === End === */
 
@@ -1998,7 +1998,7 @@ label.error{
     margin: 0 0 2.5rem 0;
 }
 .widgets-sidebar h3 {
-    color: #004d73;
+    color: #d8ba5e;
 }
 .widgets-sidebar .client-logos{
     margin: 7px 0;
