@@ -1724,7 +1724,7 @@ header.navbar-fixed-top.header-alt{
 .breadcrumbs-wrap{
     background: url(../images/fande/why-fande.jpg) no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: top center;
     padding: 300px 0 0 0;
 }
 .breadcrumbs-wrap ul{
